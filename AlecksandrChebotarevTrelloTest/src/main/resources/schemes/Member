@@ -1,0 +1,85 @@
+{
+  "id": "5b4f146b8953a83e86e0d7a3",
+  "avatarHash": null,
+  "avatarUrl": null,
+  "bio": "",
+  "bioData": null,
+  "confirmed": true,
+  "fullName": "Anton",
+  "idEnterprise": null,
+  "idEnterprisesDeactivated": [],
+  "idMemberReferrer": null,
+  "idPremOrgsAdmin": [],
+  "initials": "AF",
+  "memberType": "normal",
+  "nonPublic": {},
+  "nonPublicAvailable": false,
+  "products": [],
+  "status": "disconnected",
+  "url": "https://trello.com/user50457834",
+  "username": "user50457834",
+  "aaEmail": null,
+  "aaId": null,
+  "avatarSource": "none",
+  "email": "filia_ne@mail.ru",
+  "gravatarHash": "f4027b8713dd7626c7567afb1191d140",
+  "idBoards": [
+    "5b4f146c8953a83e86e0d7ae",
+    "5c8b65bc01e30f261a13895f",
+    "5c8ea13357abab282841d6a8",
+    "5c8f570ca9fa724acbdfb963",
+    "5c8f615bb43278347fc59d92"
+  ],
+  "idOrganizations": [],
+  "idEnterprisesAdmin": [],
+  "limits": {
+    "boards": {
+      "totalPerMember": {
+        "status": "ok",
+        "disableAt": 4500,
+        "warnAt": 4050
+      }
+    },
+    "orgs": {
+      "totalPerMember": {
+        "status": "ok",
+        "disableAt": 850,
+        "warnAt": 765
+      }
+    }
+  },
+  "loginTypes": [
+    "password"
+  ],
+  "marketingOptIn": {
+    "optedIn": true,
+    "date": "2018-07-18T10:24:02.076Z"
+  },
+  "messagesDismissed": [],
+  "oneTimeMessagesDismissed": [
+    "create-first-board",
+    "simplified-view-full-view",
+    "simplified-view-org-settings",
+    "simplified-view-card-activity",
+    "simplified-view-card-move",
+    "simplified-view-labels-and-edit",
+    "close-menu-of-first-board"
+  ],
+  "prefs": {
+    "sendSummaries": true,
+    "minutesBetweenSummaries": 15,
+    "minutesBeforeDeadlineToNotify": 1440,
+    "colorBlind": false,
+    "locale": "ru-RU",
+    "privacy": {
+      "fullName": "public",
+      "avatar": "public"
+    }
+  },
+  "trophies": [],
+  "uploadedAvatarHash": null,
+  "uploadedAvatarUrl": null,
+  "premiumFeatures": [],
+  "isAaMastered": false,
+  "idBoardsPinned": null
+}
