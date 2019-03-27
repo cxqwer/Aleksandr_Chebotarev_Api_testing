@@ -1,7 +1,7 @@
 package enums;
 
 public enum ResponseParameters {
-    INCORRECT_ID("invalid id");
+    INVALID_ID("invalid id");
 
     public final String value;
 
